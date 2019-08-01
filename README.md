@@ -8,7 +8,7 @@ Building:
 ```Docker
 docker build . -t rorymurdock/rundeck:latest
 ```
-g81fUhyqv%0B
+
 Running:
 
 ```Docker
